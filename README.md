@@ -2,9 +2,9 @@
 
 ## School : Daedeok Software Meister HighSchool
 
-#### Skill : Android, Spring FrameWork
+#### Skill : Android, Spring
 
-#### Tool : Android studio, IntelliJ, Visual Studio
+#### Tool : Android studio, IntelliJ, Visual Studio code
 
 #### Facebook : https://www.facebook.com/profile.php?id=100028595743615
 
