@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ## School : Daedeok Software Meister HighSchool
-Skill : Android, Java, C
+
+#### Skill : Android, Java, C
 
 #### Tool : Android studio, IntelliJ, Visual Studio
 
