@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-# School : Daedeok Software Meister HighSchool
+## School : Daedeok Software Meister HighSchool
 Skill : Android, Java, C
 
-Tool : Android studio, IntelliJ, Visual Studio
+#### Tool : Android studio, IntelliJ, Visual Studio
 
-Facebook : https://www.facebook.com/profile.php?id=100028595743615
+#### Facebook : https://www.facebook.com/profile.php?id=100028595743615
 
-Instargram : https://www.instagram.com/hyeonmyeong.y/
+#### Instargram : https://www.instagram.com/hyeonmyeong.y/
 
 <!--
 **aahspringaa4/aahspringaa4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
