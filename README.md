@@ -2,7 +2,7 @@
 
 ## School : Daedeok Software Meister HighSchool
 
-#### Skill : Android, Java, C 
+#### Skill : Android, Spring FrameWork
 
 #### Tool : Android studio, IntelliJ, Visual Studio
 
