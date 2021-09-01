@@ -2,7 +2,9 @@
 
 ## School : Daedeok Software Meister HighSchool
 
-#### Skill : Android, Spring, Java, C, Kotlin
+#### Language : Java, Kotlin, Python, C, C++, Java Script
+
+#### Skill : Android, WebFrontEnd
 
 #### Tool : Android studio, IntelliJ, Visual Studio code
 
