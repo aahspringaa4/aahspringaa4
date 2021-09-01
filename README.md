@@ -4,7 +4,9 @@
 
 #### Language : Java, Kotlin, Python, C, C++, Java Script
 
-#### Skill : Android, WebFrontend
+#### Main Skill : Android   
+
+#### Sub Skill : WebFrontend, Server
 
 #### Tool : Android studio, IntelliJ, Visual Studio code
 
